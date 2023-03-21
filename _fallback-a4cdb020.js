@@ -1,0 +1,3 @@
+import{S as m,i as b,s as h,f as p,g,h as f,j as i,k,l as s,n as _,o as x,p as q,u as $}from"./vendor-c8db6aee.js";function j(o){let e,a,l,t,u,n,d,c;return{c(){e=p("div"),a=p("div"),a.textContent="404",l=g(),t=p("div"),u=f(`Page not found. 
+  
+  `),n=p("a"),d=f("Go back"),i(a,"class","huge svelte-viq1pm"),i(n,"href",c=o[0]("../")),i(t,"class","big"),i(e,"class","e404 svelte-viq1pm")},m(r,v){k(r,e,v),s(e,a),s(e,l),s(e,t),s(t,u),s(t,n),s(n,d)},p(r,[v]){v&1&&c!==(c=r[0]("../"))&&i(n,"href",c)},i:_,o:_,d(r){r&&x(e)}}}function y(o,e,a){let l;return q(o,$,t=>a(0,l=t)),[l]}class S extends m{constructor(e){super();b(this,e,y,j,h,{})}}export{S as default};
